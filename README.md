@@ -4,13 +4,6 @@
 - 💻 Atuando no Desenvolvimento Web
 - 🎨 UX/UI Designer
 - 👨‍🎓 Futuro Engenheiro da Computação
-### Estudando 📚
-
-- 👨‍💼 Administração / Contábilidade
-- 💼 Empreendedorismo
-- 🎯 Market Digital 📣
-- 🗣️ Inglês
-- ⚛ React-JS / React-Native
 ##
 
 <div align="center">
