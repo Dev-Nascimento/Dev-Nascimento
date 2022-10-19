@@ -1,8 +1,7 @@
-## Olá! Me chamo *Luiz Nascimento* sou Programador e UX/UI Designer 🧑‍🦱
+## Olá! Me chamo *Luiz Nascimento* sou Programador | Front-End🧑‍🦱
 
 - 👨‍💻 Programador - Front-End
 - 💻 Atuando no Desenvolvimento Web
-- 🎨 UX/UI Designer
 - 👨‍🎓 Futuro Engenheiro da Computação
 ##
 
